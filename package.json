@@ -10,15 +10,22 @@
   },
   "dependencies": {
     "react": "16.8.1",
-    "react-native": "0.61.1"
+    "react-native": "0.61.1",
+    "react-native-video": "https://github.com/yurtaev/react-native-video#50cb46fd816df54c6dae39c253deb88ddee3691a"
   },
   "devDependencies": {
     "@babel/core": "^7.5.0",
     "@babel/runtime": "^7.5.0",
     "@react-native-community/eslint-config": "^0.0.3",
+    "@storybook/addon-actions": "^5.2.1",
+    "@storybook/addon-links": "^5.2.1",
+    "@storybook/addons": "^5.2.1",
+    "@storybook/react-native": "^5.2.1",
     "babel-jest": "^24.1.0",
+    "babel-loader": "^8.0.6",
     "jest": "^24.1.0",
     "metro-react-native-babel-preset": "^0.51.1",
+    "react-dom": "16.8.1",
     "react-test-renderer": "16.8.1"
   },
   "jest": {
