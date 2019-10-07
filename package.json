@@ -9,8 +9,8 @@
     "test": "jest"
   },
   "dependencies": {
-    "react": "16.8.1",
-    "react-native": "0.61.1",
+    "react": "16.9.0",
+    "react-native": "0.61.2",
     "react-native-video": "https://github.com/yurtaev/react-native-video#50cb46fd816df54c6dae39c253deb88ddee3691a"
   },
   "devDependencies": {
